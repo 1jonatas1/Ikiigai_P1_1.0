@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    android:id="@+id/menu2"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item
+        android:id="@+id/aaa"
+        android:title=""
+        app:showAsAction="ifRoom"
+        android:enabled="false" />
+    <item
+        android:id="@+id/cor"
+        android:enabled="false"
+        android:title="@string/opc"
+        app:showAsAction="ifRoom" />
+
+
+    <item
+        android:id="@+id/C1"
+        android:title="@string/c1"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/C2"
+        android:title="@string/c2"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/C3"
+        android:title="@string/c3"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/C4"
+        android:title="@string/c4"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/C5"
+        android:title="@string/editText"
+        app:showAsAction="ifRoom" />
+</menu>

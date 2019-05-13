@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ikigai</string>
+    <string name="bt_start">Gere seu Ikigai automaticamente</string>
+    <string name="bt_tip">Desenhe seu Ikigai</string>
+    <string name="button_erase">Apagar imagem</string>
+    <string name="button_set_color">Alterar cor</string>
+    <string name="label_red">Vermelho</string>
+    <string name="label_green">Vermelho</string>
+    <string name="label_blue">Azul</string>
+    <string name="menuitem_color">Cor</string>
+    <string name="menuitem_delete">Apagar desenho</string>
+    <string name="message_erase">Apagar imagem</string>
+    <string name="title_color_dialog">Escolha a cor</string>
+    <string name="title_paint">Desenhe seu Ikigai</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancelar</string>
+    <string name="opc">Opções</string>
+    <string name="c1">Cor circulo 1</string>
+    <string name="c2">Cor circulo 2</string>
+    <string name="c3">Cor circulo 3</string>
+    <string name="c4">Cor circulo 4</string>
+    <string name="what">Mundo precisa de</string>
+    <string name="good">Bom em</string>
+    <string name="love">Amor</string>
+    <string name="paid">pode ser pago</string>
+    <string name="passion">Paixão</string>
+    <string name="mission">missão</string>
+    <string name="profession">profissão</string>
+    <string name="vocation">vocação</string>
+    <string name="title_doodle">Gerado automaticamente</string>
+    <string name="verIkigai">Verificar Ikigai</string>
+    <string name="editText">Edite os textos</string>
+</resources>

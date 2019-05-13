@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    android:id="@+id/menu"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <item
+        android:id="@+id/aaa"
+        android:title=""
+        app:showAsAction="ifRoom"
+        android:enabled="false" />
+    <item
+        android:id="@+id/cor"
+        android:enabled="false"
+        android:title="@string/opc"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/color"
+        android:title="@string/menuitem_color"
+        android:icon="@drawable/ic_palette_black_24dp"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/delete"
+        android:title="@string/menuitem_delete"
+        android:icon="@drawable/ic_delete_black_24dp"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/verIkigai"
+        android:title="@string/verIkigai"
+        app:showAsAction="ifRoom" />
+</menu>

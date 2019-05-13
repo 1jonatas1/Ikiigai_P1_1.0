@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ikigai</string>
+    <string name="bt_start">Generiere dein ikigai automatisch</string>
+    <string name="bt_tip">Zeichne deinen Ikigai</string>
+    <string name="button_erase">Bild löschen</string>
+    <string name="button_set_color">Farbe einstellen</string>
+    <string name="label_red">rot</string>
+    <string name="label_green">Grün</string>
+    <string name="label_blue">Blau</string>
+    <string name="menuitem_color">Farbe</string>
+    <string name="menuitem_delete">Zeichnung löschen</string>
+    <string name="message_erase">Zeichnung löschen?</string>
+    <string name="title_color_dialog">Wähle eine Farbe</string>
+    <string name="title_paint">Zeichne deinen Ikigai</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Stornieren</string>
+    <string name="opc">Optionen</string>
+    <string name="c1">Kreis 1 Farbe</string>
+    <string name="c2">Kreis 2 Farbe</string>
+    <string name="c3">Kreis 3 Farbe</string>
+    <string name="c4">Kreis 4 Farbe</string>
+    <string name="what">Welten brauchen</string>
+    <string name="good">gut in</string>
+    <string name="love">Liebe</string>
+    <string name="paid">bezahlt für</string>
+    <string name="passion">Leidenschaft</string>
+    <string name="mission">Mission</string>
+    <string name="profession">Beruf</string>
+    <string name="vocation">Berufung</string>
+    <string name="title_doodle">automatisch generiert</string>
+    <string name="verIkigai">Überprüfen Sie Ikigai</string>
+    <string name="editText">Bearbeiten Sie die Textes</string>
+</resources>

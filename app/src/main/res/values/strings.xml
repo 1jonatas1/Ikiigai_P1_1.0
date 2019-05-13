@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Ikigai</string>
+    <string name="bt_start">Generate your ikigai automatically</string>
+    <string name="bt_tip">Draw your ikigai</string>
+    <string name="button_erase">Erase Image</string>
+    <string name="button_set_color">Set Color</string>
+    <string name="label_red">Red</string>
+    <string name="label_green">Green</string>
+    <string name="label_blue">Blue</string>
+    <string name="menuitem_color">Color</string>
+    <string name="menuitem_delete">Erase Drawing</string>
+    <string name="message_erase">Erase the drawing?</string>
+    <string name="title_color_dialog">Choose Color</string>
+    <string name="title_paint">Draw your ikigai</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="opc">Options</string>
+    <string name="c1">Circle 1 Color</string>
+    <string name="c2">Circle 2 Color</string>
+    <string name="c3">Circle 3 Color</string>
+    <string name="c4">Circle 4 Color</string>
+    <string name="what">worlds need</string>
+    <string name="good">good at</string>
+    <string name="love">love</string>
+    <string name="paid">paid for</string>
+    <string name="passion">passion</string>
+    <string name="mission">mission</string>
+    <string name="profession">profession</string>
+    <string name="vocation">vocation</string>
+    <string name="title_doodle">generated automatically</string>
+    <string name="verIkigai">Verify Ikigai</string>
+    <string name="editText">Edit texts</string>
+</resources>
